@@ -1,4 +1,4 @@
-# Gruvbox Mac Terminal Theme
+# Gruvbox Mac Terminal/iTerm2 Themes
 
 Port from [morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
@@ -9,7 +9,7 @@ Port from [morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 ![gruvbox-light-terminal](gruvbox-light-terminal.png)
 
 ### Tip
-Add the following to your `.profile`, `.bashrc`, or `.bash_profile` to enable `ls` coloring.
+For Mac terminal, add the following to your `.profile`, `.bashrc`, or `.bash_profile` to enable `ls` coloring.
 
 ``` shell
 export CLICOLOR=1
